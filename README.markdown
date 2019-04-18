@@ -1,4 +1,7 @@
-ABOUT
+ABOUT modify by alexhsu
+112233
+
+
 =====
 
 **mkxpud** is an image generator for xPUD project (<http://www.xpud.org>).
